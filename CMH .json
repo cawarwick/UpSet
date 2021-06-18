@@ -1,0 +1,13 @@
+{
+	"file": "https://github.com/cawarwick/UpSet/blob/578bf3ade65efa9ade61043af3de922792137fac/UpsetR%20CMH.csv",
+	"name": "UpsetR CMH.csv",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 8 }
+	]
+}
